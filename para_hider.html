@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Toggle Paragraph Visibility</title>
+<style>
+    body{
+        justify-content: center;
+        align-items: center;
+    }
+  #toggleButton {
+    margin-bottom: 10px;
+    /* justify-content: center;  */
+    /* border: 1rem;
+    border-color: black;
+    bottom: auto; */
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+
+  }
+
+  #hiddenParagraph {
+    display: none;
+  }
+</style>
+</head>
+<body>
+  <button id="toggleButton">Toggle Paragraph</button>
+  <p id="hiddenParagraph">This is a hidden paragraph that can be toggled.</p>
+  <script>
+    const toggleButton = document.getElementById("toggleButton");
+    const hiddenParagraph = document.getElementById("hiddenParagraph");
+
+    toggleButton.addEventListener("click", () => {
+      if (hiddenParagraph.style.display === "none") {
+        hiddenParagraph.style.display = "block";
+      } else {
+        hiddenParagraph.style.display = "none";
+      }
+    });
+  </script>
+</body>
+</html>
