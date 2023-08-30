@@ -1,0 +1,21 @@
+						Week 2 Coding Project - Full Stack Development
+						----------------------------------------------
+Q6: Create an image slider that displays a set of images one at a time. Users should be able to navigate between images using next and previous buttons. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q7: Write a program to create an automatic image slideshow for a website. The slideshow should display a series of images, changing to the next image every 2 seconds. The user should be able to see each image for a brief period before it transitions to the next one. Additionally, the slideshow should loop back to the first image after displaying the last one. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q8: Write a program that utilizes jQuery to dynamically update the background color and value of a <div> tag based on the input value of a text box. Ensure that the program responds dynamically as the user types in the text box, updating the color and value in real time. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q9: In the existing kit on Building a Basic Login Page using Javascript create a button called "Forgot password". If the user clicks on forgot password, it should redirect to the other page called "password hint" where you can provide some hint for remembering the password. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q10: For this week’s kandi-1-click kit, create a button that toggles the visibility of a hidden paragraph. Initially, the paragraph should be hidden, and clicking the button should show/hide the paragraph. Upload screenshots of both the code and the output (upload only in PNG image format).
+                                               ---------------------------------------------
+Q6: Write a program that creates a styled heading with stroke and shadow using HTML and CSS. The heading should display the text "LEARN TO CODE" with the following styles applied: Font family: "Roboto" with a fallback to a sans-serif font. Font size: 50 pixels. Font weight: bold. Text color: Transparent. Text shadow: A red shadow with an offset of 3 pixels horizontally and vertically (3px 3px 0 red). Text fill color: Transparent. Text stroke width: 1 pixel. Text stroke color: Black. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q7: Write a JS ES6 program to showcase the concept of Inheritance extended from a Parent class to a child class. Create a parent class and a child class. Create a function that prints a name in child class which derives that name from the Parent class using “extends” and “super” keywords in ES6. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q8: Write a program to create an automatic image slideshow for a website. The slideshow should display a series of images, changing to the next image every 2 seconds. The user should be able to see each image for a brief period before it transitions to the next one. Additionally, the slideshow should loop back to the first image after displaying the last one. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q9: For this week’s kandi-1-click kit, create a button that toggles the visibility of a hidden paragraph. Initially, the paragraph should be hidden, and clicking the button should show/hide the paragraph. Upload screenshots of both the code and the output (upload only in PNG image format).
+
+Q10: In this week’s kit on Basics of JavaScript, create a simple contact form with fields for name, email, and message. When the user submits the form, display an alert with the submitted data. Upload screenshots of both the code and the output (upload only in PNG image format).
